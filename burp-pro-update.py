@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 #
 # All credits go to Brian McDermott's 2020 original script (https://github.com/dev-0x0/useful-scripts/blob/main/burpsuite_update.py)
-# I only modified the code to download Pro version and changed the default location
+# I made small modifications including the default location and Pro version links
 # Does not affect configuration/saved files or license keys
 # 
 # Downloads the latest burpsuite Pro JAR file and saves it to /opt/BurpSuitePro/burpsuite_pro.jar (the default location at time of writing for Linux)
