@@ -1,5 +1,5 @@
 # Scripts
-A repo for potentially useful scripts
+A repo for potentially useful scripts & resources
 
 **burp-pro-update.py** <p>A python script that aims to ease the updating process of BurpSuite PRO</p> 
 <p>Downloads BurpSuite PRO jar file and renames the original one to .old for safety purposes</p> 
@@ -12,3 +12,5 @@ wget https://raw.githubusercontent.com/jimiss/scripts/main/burp-pro-update.py
 chmod +x burp-pro-update.py
 sudo ./burp-pro-update.py
 ```
+
+**useful-resources** <p>A list of resources ranging from custom Mimikatz to research blogs and red-team cheatsheets</p>
