@@ -1,0 +1,292 @@
+
+# Resources I've managed to gather over the last year
+
+Credits go to the original authors/owners
+
+Free VM to assist in mobile pentesting:
+https://mobexler.com/
+
+Custom Mimikatz & revshell in powershell:
+https://github.com/HernanRodriguez1/MimikatzFUD
+https://github.com/HernanRodriguez1/RevershellTCP_BypassAMSI/blob/main/rshell.ps1
+
+Reverse Shell generator:
+https://www.revshells.com/
+
+Windows Defender Hardening:
+https://0ut3r.space/2022/03/06/windows-defender/
+
+Generic Hardening:
+https://github.com/decalage2/awesome-security-hardening
+
+Smap (passive port scan through shodan):
+https://github.com/s0md3v/Smap
+
+Personal Security Checklist:
+https://github.com/Lissy93/personal-security-checklist
+
+Web Attacks Cheatsheet:
+https://github.com/riramar/Web-Attack-Cheat-Sheet
+
+RCE on WebApps:
+https://www.linkedin.com/posts/purabparihar_bugbounty-bugbounties-wapt-activity-6910106100830756864-jnwc?utm_source=linkedin_share&utm_medium=member_desktop_web
+
+Bug Bounty Writeups:
+https://writeups.io/
+https://pentester.land/list-of-bug-bounty-writeups.html
+
+Windows Exploitation Cheatsheet:
+https://wadcoms.github.io/
+
+Burp Match & Replace - Hidden Features:
+https://medium.com/@johnssimon_6607/getting-access-to-disabled-hidden-features-with-the-help-of-burp-match-and-replace-e1d7b70d131e
+
+DLL Hijack Automation:
+https://github.com/knight0x07/ImpulsiveDLLHijack
+
+Race Condition:
+https://arbazhussain.medium.com/race-condition-bypassing-team-limit-b162e777ca3b
+
+Reporting tool made by Pen-testers:
+https://github.com/blacklanternsecurity/writehat
+
+365 User Enumeration (no locking):
+https://github.com/dievus/Oh365UserFinder
+
+OSWE Notes:
+https://drive.google.com/file/d/1KIc_qsRvlWbaUY04ug9_4zEXySx53yGv/view
+
+OSCE3 Complete Guide:
+https://github.com/CyberSecurityUP/OSCE-Complete-Guide
+
+AWS Automated Incident Response:
+https://github.com/awslabs/aws-automated-incident-response-and-forensics
+
+RDP Session Hijacking (requires DA)
+http://www.korznikov.com/2017/03/0-day-or-feature-privilege-escalation.html
+
+Multi Cloud Red Team:
+https://www.linkedin.com/posts/joas-antonio-dos-santos_multi-cloud-red-team-pt-1-activity-6909535043103133696-NbOP
+
+CrossLinked (scrap Linkedin users - generate emails):
+https://github.com/m8r0wn/CrossLinked
+
+Browser Exploitation on Windows:
+https://connormcgarr.github.io/type-confusion-part-1/
+
+CherryTree for Pentesting/OSCP:
+https://github.com/CyberSecurityUP/Template-CherryTree-PenTest
+
+SQL Injection Custom payload:
+https://www.linkedin.com/posts/jakedmurphy1_hacking-sql-sqlmap-activity-6901533023729184768-CPX4
+
+Advanced SQL Injection Cheatsheet:
+https://github.com/kleiton0x00/Advanced-SQL-Injection-Cheatsheet
+
+DotGit (Firefox plugin - search for .git/.svn)
+https://github.com/davtur19/DotGit
+
+iHide - new jailbreak bypass tool:
+https://www.trustedsec.com/blog/introducing-ihide-a-new-jailbreak-detection-bypass-tool/
+
+ReconFTW:
+https://github.com/six2dez/reconftw
+
+CSI Linux VM (for investigations - runs through Tor):
+https://csilinux.com/download
+
+Red Team Resources:
+https://github.com/threatexpress/red-team-scripts
+https://github.com/ZephrFish/Red-Teaming-Toolkit
+https://github.com/CyberSecurityUP/Awesome-Red-Team-Operations
+
+Unredacter (undo pixelation):
+https://github.com/BishopFox/unredacter
+
+Cloud Pen-testing Cheatsheets:
+https://github.com/dafthack/CloudPentestCheatsheets
+
+Security Newsletters:
+https://github.com/TalEliyahu/awesome-security-newsletters
+
+Google Dorks:
+https://github.com/CorrieOnly/google-dorks
+
+API Security Tips:
+https://github.com/inonshk/31-days-of-API-Security-Tips
+
+LinWinPwn AD Enumeration Automation:
+https://github.com/lefayjey/linWinPwn
+
+Trufflehog | Scan for exposed keys (AWS,Github etc.)
+https://github.com/trufflesecurity/trufflehog
+
+DarkDump (Search dark web on terminal):
+https://github.com/josh0xA/darkdump
+
+Malware Overview tool:
+https://github.com/alexandreborges/malwoverview
+
+Privesc with RBCD:
+https://www.praetorian.com/blog/red-team-privilege-escalation-rbcd-based-privilege-escalation-part-2/
+
+AV Evasion - Disk is Lava:
+https://0xhop.github.io/evasion/2021/05/26/evasion-pt2/
+
+Payload Cradles (Bypass AV):
+https://github.com/VirtualAlllocEx/Payload-Download-Cradles
+
+Mip22 Advanced Phishing:
+https://github.com/makdosx/mip22
+
+MacOS RedTeam:
+https://wojciechregula.blog/tags/macos-red-teaming/
+
+Powershell Enumeration *TRANSLATE (loggedon users etc.)
+https://fixmypc.ru/post/kak-naiti-zaloginenykh-polzovatelei-i-aktivnye-sessii-s-powershell/
+
+C2 in Notion:
+https://medium.com/@huskyhacks.mk/we-put-a-c2-in-your-notetaking-app-offensivenotion-3e933bace332
+
+AD Visualizer:
+https://github.com/lkarlslund/adalanche
+
+EDR Bypassing:
+https://medium.com/@omribaso/this-is-how-i-bypassed-almost-every-edr-6e9792cf6c44
+
+Malware Sandboxing:
+https://www.linkedin.com/posts/shubham-sharmaa_malware-sandboxing-activity-6862307096482897920-RRQ5
+
+Offensive GCP Toolkit:
+https://desi-jarvis.medium.com/gcphound-a-swiss-army-knife-offensive-toolkit-for-google-cloud-platform-gcp-fb9e18b959b4
+
+Exflitrate files bit by bit:
+https://www.kitploit.com/2021/10/http-protocol-exfil-exfiltrate-files.html?m=1
+
+Kali Weaponizer (automatically install tools):
+https://github.com/penetrarnya-tm/WeaponizeKali.sh
+
+Top 25 Account Takeover Reports:
+https://corneacristian.medium.com/top-25-account-takeover-bug-bounty-reports-cd855374be14
+
+Compile C# tools for Red team (no VS)
+https://github.com/Aetsu/OffensivePipeline
+
+MITRE Attacks techniques:
+https://www.linkedin.com/posts/francescofaenzi_mitreattack-windows-mac-activity-6832177917741559808-QrFA
+
+AD Red Team Enumeration Scripts:
+https://github.com/n3t1nv4d3/ADRedTeamEnumScript
+
+SSRF Finder:
+https://www.kitploit.com/2022/02/ssrfire-automated-ssrf-finder-just-give.html
+
+FinalRecon:
+https://github.com/thewhiteh4t/FinalRecon
+
+Intro to Fuzzing (OSEE Prep):
+https://www.youtube.com/watch?v=zWBfbJ1ugNo
+
+AV Evasion P1:
+https://0xhop.github.io/evasion/2021/04/19/evasion-pt1/
+
+CVE-2021-4034 Exploit:
+https://github.com/berdav/CVE-2021-4034
+
+Bypass Windows Defender Attack Surface Reduction
+https://www.linkedin.com/posts/recai-a-00878b158_bypass-windows-defender-attack-surface-reduction-activity-6887261033849737216-3FuW
+
+SysmonSimulator: Windows event simulation utility (blue team)
+https://github.com/ScarredMonk/SysmonSimulator
+
+Disctopia (Discord Backdoor)
+https://github.com/3ct0s/disctopia-c2
+
+Car Security Exploitation:
+https://github.com/CaringCaribou/caringcaribou
+
+Robot Hacking Manual:
+https://rhm.cybersecurityrobotics.net/
+
+Tunneling Cheatsheet:
+https://github.com/twelvesec/port-forwarding
+
+Malware Development for Red teams:
+https://github.com/chr0n1k/AH2021Workshop
+
+MFASweep (Identify if MFA is enabled):
+https://github.com/dafthack/MFASweep
+
+Powerstistence (scheduled task after compromise)
+https://github.com/pi0x73/Powersistence
+
+Bash one-liner for SSH Failed logins:
+https://www.linkedin.com/posts/bilalbokhari_bashoneliner-bashshellscripting-bash-activity-6862915878837719040-lkd5
+
+Malware Analysis Series training:
+https://www.linkedin.com/posts/aleborges_malware-analysis-series-article-1-activity-6872452831350136832-2Juu
+
+Find AmazonS3 Buckets - firefox:
+https://addons.mozilla.org/en-GB/firefox/addon/s3-bucket-list/
+
+Pwnfox:
+https://github.com/yeswehack/PwnFox
+
+Pentest Cheatsheets:
+https://hausec.com/pentesting-cheatsheet/
+https://hausec.com/2017/10/21/domain-penetration-testing-using-bloodhound-crackmapexec-mimikatz-to-get-domain-admin/
+https://hausec.com/2019/03/05/penetration-testing-active-directory-part-i/
+https://xedex.gitbook.io/internalpentest/internal-pentest/active-directory/initial-attack-vectors/llmnr-nbt-ns-poisoning/smb-relay
+https://bitvijays.github.io/LFF-IPS-P3-Exploitation.html
+https://www.windows-commandline.com/add-user-to-domain-group/
+https://xedex.gitbook.io/internalpentest/internal-pentest/active-directory/initial-attack-vectors/ipv6-attacks/basic-attack
+https://aas-s3curity.gitbook.io/cheatsheet/internalpentest/active-directory/exploitation/exploit-without-account/smb-relay
+https://abarrak.gitbook.io/linux-sysops-handbook/#shell-tips-and-tricks
+
+Automate initial foothold Pwn-o-Magic:
+https://gist.github.com/braimee/e3e462b634715ae06121c82d49c274e9
+
+Rpivot:
+https://artkond.com/2017/03/23/pivoting-guide/#rpivot-1
+
+FI & Uploads:
+https://github.com/jhaddix/tbhm/blob/master/07_File_Upload.md
+
+OSCP Guide:
+https://sushant747.gitbooks.io/total-oscp-guide/content/list_of_common_ports.html
+
+Patching iOS apps:
+https://github.com/sensepost/objection/wiki/Patching-iOS-Applications#preparations---xcode
+
+Iranian APT commands:
+https://gist.github.com/MSAdministrator/7a61025263e279a740835da4b205e6d0
+
+Kerberoast no SPNs:
+https://swarm.ptsecurity.com/kerberoasting-without-spns/
+
+Autorecon:
+https://github.com/Tib3rius/AutoRecon
+
+Top ways to breach Wireless:
+https://adam-toscher.medium.com/top-5-ways-i-gained-access-to-your-corporate-wireless-network-lo0tbo0ty-karma-edition-f72e7995aef2
+
+Process Herpaderping:
+https://jxy-s.github.io/herpaderping/
+
+Cracking RAR Archives (AttackDefense):
+https://attackdefense.com/challengedetailsnoauth?cid=96
+
+Virus Scan (no logging):
+https://kleenscan.com/index
+
+Red Rabbit - Post Exploitation for Red Teams:
+https://secnhack.in/redrabbit-pentesting-post-exploitation-for-red-team/
+
+Ways to steal Wi-fi Passwords:
+https://secnhack.in/multiple-ways-to-steal-wifi-passwords/
+
+Intercept traffic after Android 7:
+https://blog.ropnop.com/configuring-burp-suite-with-android-nougat/
+
+Check for leaks:
+https://checkleaked.cc/check
