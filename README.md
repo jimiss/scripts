@@ -12,5 +12,6 @@ wget https://raw.githubusercontent.com/jimiss/scripts/main/burp-pro-update.py
 chmod +x burp-pro-update.py
 sudo ./burp-pro-update.py
 ```
+# Resources file
+**useful-resources.txt** <p>A list of resources ranging from custom Mimikatz to research blogs and red team cheatsheets</p> 
 
-**useful-resources** <p>A list of resources ranging from custom Mimikatz to research blogs and red-team cheatsheets</p>
