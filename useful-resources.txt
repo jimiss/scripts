@@ -290,3 +290,18 @@ https://blog.ropnop.com/configuring-burp-suite-with-android-nougat/
 
 Check for leaks:
 https://checkleaked.cc/check
+
+Telegram OSINT:
+https://start.me/p/YaOYnJ/telegram-osint
+
+Purple Team Course (PDF):
+https://www.linkedin.com/posts/chiragh-arora_applied-purple-teaming-activity-6931670526138421248-Ybai
+
+Dumping lsass through Avast:
+https://www.linkedin.com/posts/khandelwalshantanu_redteam-pentest-cyber-activity-6931166996965298176-nIKF
+
+Bypass Gmail URL Alert (phishing campaigns):
+https://intarna.com/2022/05/15/bypass-gmail-url-alert-by-url/
+
+Kiosk breakout with MS Edge:
+https://blog.nviso.eu/2022/05/24/breaking-out-of-windows-kiosks-using-only-microsoft-edge/
