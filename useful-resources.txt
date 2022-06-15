@@ -305,3 +305,15 @@ https://intarna.com/2022/05/15/bypass-gmail-url-alert-by-url/
 
 Kiosk breakout with MS Edge:
 https://blog.nviso.eu/2022/05/24/breaking-out-of-windows-kiosks-using-only-microsoft-edge/
+
+Smart Contract Auditing
+https://www.notonlyowner.com/learn/intro-security-hacking-smart-contracts-ethereum
+
+AutoPwn
+https://github.com/GamehunterKaan/AutoPWN-Suite
+
+Kiosk/ATM Breakout
+https://boschko.ca/atm-kiosk-hacking-phd2022/
+
+Froggy Enumeration
+https://github.com/iamthefrogy/frogy
