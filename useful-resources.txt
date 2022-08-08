@@ -317,3 +317,6 @@ https://boschko.ca/atm-kiosk-hacking-phd2022/
 
 Froggy Enumeration
 https://github.com/iamthefrogy/frogy
+
+Web App Hacking tips:
+https://www.webhackingtips.com/
